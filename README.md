@@ -72,8 +72,5 @@ jupyter notebook
 2. Yeni bir branch oluşturun (`git checkout -b feature/YeniÖzellik`)
 3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
 4. Branch'inizi push edin (`git push origin feature/YeniÖzellik`)
-5. Pull Request oluşturun
+5. Pull Request oluşturun.
 
-
-## 🌟 Teşekkür
-Bu projenin geliştirilmesinde bana takım arkadaşı olarak destek olan Elif Çeler'e teşekkür ederim.
